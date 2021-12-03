@@ -6,7 +6,7 @@ buildscript {
         nav_version = '1.0.0'
         workVersion = '1.0.1'
         anko_version = '0.10.8'
-        koin_version = '2.2.0'
+        koin_version = '2.2.2'
     }
     repositories {
         google()
